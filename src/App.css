@@ -1,0 +1,29 @@
+Body{
+  background-color: gray;
+}
+#Header{
+  text-align: center;
+}
+#CaleMenu{
+  display:flex;
+  justify-content: center;
+}
+#Menu1{
+  margin-right: 120px;
+  text-align: center;
+}
+#Menu2{
+  text-align: center;
+}
+#Footer{
+  text-align: center;
+  color:greenyellow;
+}
+#MenuCSS{
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size:x-large;
+}
+h1{
+  color:red;
+}
